@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: white;
+}
+
+#StopButton{
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    /* position:absolute; */
+}
+
+#resumeButton{
+    padding: 10px 20px;
+    font-size: 16px;
+    /* position: absolute; */
+    cursor: pointer;   
+}
+/* 
+#colorInput{
+    position: relative;
+} */
+
+/* #buttons{
+    position: absolute;
+}
+
+#ip-buttons{
+    display: flex;
+    position: relative;
+} */
